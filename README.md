@@ -8,7 +8,7 @@
 ```lua
 print("Привет, мир! Я Кирилл")
 ```
-🚀 Обо мне
+#🚀 Обо мне
 
 ❓ Мне 14 лет
 
@@ -18,10 +18,10 @@ print("Привет, мир! Я Кирилл")
 
 🌱 Сейчас активно учусь и развиваюсь
 
-🛠 Мои навыки
-<p align="left"> <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"> <img src="https://img.shields.io/badge/roblox-%230072D1.svg?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"> </p>
+#🛠 Мои навыки
+<p align="left"> <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
 
-🔥 Мои проекты
-#  "ARG сериал в Roblox (в разработке)",
-#  "Изучаю игровую механику",
-#  "Скрипты для Roblox"
+#🔥 Мои проекты
+  "ARG сериал в Roblox (в разработке)",
+  "Изучаю игровую механику",
+  "Скрипты для Roblox"
